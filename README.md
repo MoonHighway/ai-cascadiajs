@@ -30,6 +30,7 @@ Please don't hesitate to ask questions here before, during, or after class!
 | 12:00-1:00 | Lunch      |    1hr |
 | 1:00-2:15  | Section 3    |  30min |
 | 2:15-2:30 | Break           |  15min |
+| 2:30-4:00 | Section 4       |    1hr 30min|
 | 4:00        | End             |        |
 
 ## Workshop Agenda
